@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  secrets: MyText
+  dreams: 1
+  ambitions: 9.99
+  hopes: MyText
+  cats: 9.99
+
+two:
+  name: MyString
+  secrets: MyText
+  dreams: 1
+  ambitions: 9.99
+  hopes: MyText
+  cats: 9.99
